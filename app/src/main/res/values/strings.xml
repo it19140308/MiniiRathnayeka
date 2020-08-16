@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShopDrop</string>
+    <string name="pa1">Product Name</string>
+    <string name="pa2">Description</string>
+    <string name="pa3">Price</string>
+    <string name="pa4">Band width:2mm Metal:925 sterling silverPlating :rhodium plated Finished:high Publish</string>
+    <string name="pa5">Rs.800.00</string>
+    <string name="pa6">Band width:2mm Metal:925 sterling silverPlating :rhodium plated Finished:high Publish</string>
+    <string name="pa7">Rs.800.00</string>
+    <string name="pa8">Brand: Stainlesssteel  * Stainless steel ring * Geometric shape * Gold colour * DAD design * Suitable for men * Charm design</string>
+    <string name="pa9">Rs.12000.00</string>
+</resources>
